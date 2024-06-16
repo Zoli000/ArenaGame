@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	<Nullable>enable</Nullable>
+    <Authors>Zoltán Scheffer</Authors>
+    <Company>Devora Lime</Company>
+  </PropertyGroup>
+
+</Project>
